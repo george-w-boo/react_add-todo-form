@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AACE,YACE,eAAgB,CAChB,iBAAkB,CACnB,WAGC,eAAgB,CACjB,iBAGC,kBAAmB","file":"main.9e7c4070.chunk.css","sourcesContent":[".App {\n  &__title {\n    margin-top: 20px;\n    text-align: center;\n  }\n\n  &__form {\n    margin-top: 40px;\n  }\n\n  &__todo_title {\n    margin-bottom: 10px;\n  }\n}\n"]}
